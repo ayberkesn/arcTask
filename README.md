@@ -4,7 +4,7 @@ This project implements a ZK-Sudoku verifier on Arc.
 
 ## Prerequisites
 
-- **OS**: Linux or macOS (Windows requires WSL, which is currently blocked on this machine).
+- **OS**: Linux or macOS (Windows requires WSL)
 - **Noir**: Install `nargo` via `noirup`.
 - **Barretenberg**: Install `bb` CLI.
 - **Node.js**: v18+.
